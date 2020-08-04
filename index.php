@@ -1,4 +1,4 @@
 <?php
-header("Location: setup-your-keym.tk");
+header("Location: https://setup-your-keym.tk");
 die();
 ?>
